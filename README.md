@@ -12,7 +12,6 @@ Sou um Desenvolvedor Web Full-Stack de Contagem/MG, focado no ecossistema JavaSc
 
 ### 🚀 O que eu ando construindo
 * 💻 **Luna Nova:** Desenvolvimento Full-Stack e arquitetura completa da plataforma.
-* 🍰 **Mary Cakes:** Criação de website e catálogo focado em UX/UI para cliente real.
 * ⚡ **NitroFocus:** Sistema autoral focado em produtividade e alta performance.
 
 ### 📫 Como me encontrar
