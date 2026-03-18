@@ -1,8 +1,8 @@
 # Fala, eu sou o Thiago! ✌️
 
-Sou um Desenvolvedor Web Full-Stack de Contagem/MG, focado no ecossistema JavaScript e na criação de APIs RESTful. Sou apaixonado por transformar lógica pura em sistemas reais e escaláveis. Atualmente, divido meu tempo entre os estudos técnicos no SENAI e o desenvolvimento autônomo de plataformas, atuando ponta a ponta: do banco de dados e rotas no Back-end até a interface do usuário no Front-end.
+Sou um Desenvolvedor Web Front end de Contagem/MG, focado no ecossistema JavaScript e na criação de APIs RESTful. Sou apaixonado por transformar lógica pura em sistemas reais e escaláveis. Atualmente, divido meu tempo entre os estudos técnicos no SENAI e o desenvolvimento autônomo de plataformas, aprendendo: banco de dados e rotas no Back-end até a interface do usuário no Front-end.
 
-### 💻 Minha Stack
+### 💻 Aprendendo
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
