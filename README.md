@@ -18,12 +18,10 @@ Minha especialidade é o ecossistema JavaScript/TypeScript, atuando desde a cons
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-*(Nota: O ecossistema HTML5, CSS3 e JavaScript puro continuam sendo meus alicerces, mas hoje o foco é a construção de software completo.)*
-
 ### 🚀 O que eu ando construindo
-*   🎧 **Vadrox:** Player de música premium (Mobile) construído com React Native e TypeScript, consumindo um Backend customizado em Node.js/Fastify. O projeto conta com integração de múltiplos modelos de IA (Gemini, Groq, OpenRouter) para recomendações e chat, além de arquitetura híbrida com túneis para streaming de áudio.
-*   💻 **Luna Nova:** Desenvolvimento Full-Stack e arquitetura completa da plataforma.
-*   ⚡ **NitroFocus:** Sistema autoral focado em produtividade e alta performance.
+
+*   🎧 **Vadrox:** Player de música premium (Mobile) construído com React Native e TypeScript, consumindo um Back-end customizado em Node.js/Fastify. O projeto conta com integração de múltiplos modelos de IA (Gemini, Groq, OpenRouter) para recomendações e chat, além de arquitetura híbrida com túneis para streaming de áudio.
+*   🧠 **CTX:** SaaS de orquestração de enxames de IA (Multi-Agent System). A plataforma utiliza um modelo de agentes (Maestro, Personas Especialistas e Juiz) que debatem problemas em paralelo para entregar respostas superiores às de um agente único. O grande diferencial é a engenharia de custos agressiva: roteamento condicional, parada antecipada por consenso e limites rígidos de tokens para controle de API.
 
 ### 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-vinicius-4b8009389)
